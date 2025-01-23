@@ -2,14 +2,14 @@
 
 ## Course Info
 All lectures' video recordings, slides and homeworks are available:
-https://www.ipb.uni-bonn.de/teaching/cpp-2020/index.html
+https://www.ipb.uni-bonn.de/teaching/cpp-2020/index.html and
 https://youtu.be/sZK6ouwREXA?si=rRFiKEFzs0U16gIJ
 
 It is a fantastic course for learning modern c++! Many thanks to Dr. Ignacio Vizzo and Prof. Cyrill Stachniss.
 
 
 ## Note for this repo
-As gitlab of Bonn Uni is not publicly accessible, all homework solutions are only locally validated. All homework solutions passed the local tests, except the the validation of kmeans, in which multiple solutions exist for the 3 word case, and my solution is also valid in my opinion.
+As gitlab of Bonn Uni is not publicly accessible, all homework solutions are only locally validated. All homework solutions passed the local tests, except the the validation of kmeans in homework_7, in which multiple solutions exist for the 3 word case, and my solution is also valid in my opinion.
 
 ## Requirements
 
